@@ -1,0 +1,34 @@
+{
+  "captina": {
+    "endpoint": "https://www.captina.net/api/iOS/",
+    "domain": "dev.davero.com",
+    "store_id": "4",
+    "hexKey": "50a0ec013beee7989199dcb9e659c9b6b533c5fd8f1deff4e47c9f4cafa5a215",
+    "nonceHeader": "x-captina-api-auth",
+    "version": "1.0",
+    "methods": {
+      "registerApp": "YXV0aDpyZWdpc3RlckFwcA==",
+      "getActiveStores": "b3B0aW9uczpnZXRBY3RpdmVTdG9yZXM=",
+      "getStoreInfo": "b3B0aW9uczpnZXRTdG9yZUluZm8=",
+      "getAllPrefs": "b3B0aW9uczpnZXRBbGxQcmVmcw==",
+      "getConfig": "b3B0aW9uczpnZXRDb25maWc=",
+      "getReferrersList": "b3B0aW9uczpnZXRSZWZlcnJlcnNMaXN0",
+      "getSalesRepsList": "b3B0aW9uczpnZXRTYWxlc1JlcHNMaXN0",
+      "getCatalog": "Y2FydDpnZXRDYXRhbG9n",
+      "getCatalogClusters": "Y2FydDpnZXRDYXRhbG9nQ2x1c3RlcnM=",
+      "findMemberByEmail": "dmlwOmZpbmRNZW1iZXJCeUVtYWls",
+      "findMemberByName": "dmlwOmZpbmRNZW1iZXJCeU5hbWU=",
+      "preAuthCreditCard": "Y2FydDpwcmVBdXRoQ3JlZGl0Q2FyZA==",
+      "calculateCouponValue":   "Y2FydDpjYWxjdWxhdGVDb3Vwb25WYWx1ZQ==",
+      "recordNewStoreOrder": "Y2FydDpyZWNvcmROZXdTdG9yZU9yZGVy",
+      "authenticateUser": "YXV0aDphdXRoZW50aWNhdGVVc2Vy",
+      "getPromoCoupon": "Y2FydDpnZXRDb3Vwb25JbmZv",
+      "getClubTypes": "Y2x1YnM6Z2V0Q2x1YlR5cGVz",
+      "getPromotionsList": "b3B0aW9uczpnZXRQcm9tb3Rpb25zTGlzdA==",
+      "getCatalogPromotionDetails": "b3B0aW9uczpnZXRDYXRhbG9nUHJvbW90aW9uRGV0YWlscw==",
+      "getShippingOptions": "b3B0aW9uczpnZXRTaGlwcGluZ09wdGlvbnM=",
+      "zipLookup": "Y2FydDp6aXBMb29rdXA=",
+      "calculateShipping": "Y2FydDpjYWxjdWxhdGVTaGlwcGluZw=="
+    }
+  }
+}
